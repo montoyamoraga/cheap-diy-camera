@@ -62,15 +62,15 @@ El proyecto nace de la idea de construir una cámara que sea a la vez funcional 
 ## Esquemático simplificado
 
 ```
-                    ┌─────────────────────────────┐
-                    │      XIAO ESP32-S3 Sense     │
-                    │                              │
-  SW1 ──── GPIO1    │  D0 ──────────────── 3V3 ───►│──── VCC (Display)
-  SW2 ──── GPIO2    │  D1                  GND     │
-                    │                              │
-  Display CS ─────  │  D5 (GPIO6)                  │
-  Display DC ─────  │  D6 (GPIO43)    ┌── BAT ─────│──── JST+ (LiPo)
-  Display RES ────  │  D7 (GPIO44)    │   GND ─────│──── JST−
+                    ┌───────────────────────────────┐
+                    │      XIAO ESP32-S3 Sense      │
+                    │                               │
+  SW1 ──── GPIO1    │  D0 ──────────────── 3V3 ───► │──── VCC (Display)
+  SW2 ──── GPIO2    │  D1                  GND      │
+                    │                               │
+  Display CS ─────  │  D5 (GPIO6)                   │
+  Display DC ─────  │  D6 (GPIO43)    ┌── BAT ──────│──── JST+ (LiPo)
+  Display RES ────  │  D7 (GPIO44)    │   GND ──────│──── JST−
   Display MOSI ───  │  D10 (GPIO9)    │             │
   Display CLK ────  │  D8 (GPIO7)     │             │
                     │                 │             │
