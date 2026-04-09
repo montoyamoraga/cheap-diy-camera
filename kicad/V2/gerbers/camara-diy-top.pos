@@ -1,0 +1,25 @@
+### Footprint positions - created on 2026-04-07T21:33:13-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                                     PosX       PosY       Rot  Side
+C1        100nF                        C_0402_1005Metric                                       124.0600   -85.0000    0.0000  top
+C2        100nF                        C_0402_1005Metric                                       124.0200   -89.0000    0.0000  top
+C3        100nF                        C_0402_1005Metric                                       124.0200   -93.0000    0.0000  top
+C4        100nF                        C_0402_1005Metric                                       124.0200   -97.0000    0.0000  top
+C5        100nF                        C_0402_1005Metric                                       124.0200  -101.0000    0.0000  top
+C6        10uF                         C_0805_2012Metric                                       116.5000  -104.5500  -90.0000  top
+C7        10uF                         C_0805_2012Metric                                       136.0000  -109.5000  180.0000  top
+D1        LED_rojo                     LED_0402_1005Metric                                     141.0000  -108.0000   90.0000  top
+D2        LED_verde                    LED_0402_1005Metric                                     145.0000  -108.0000   90.0000  top
+D3        D_Schottky_SS14              D_SMA                                                   154.0000   -99.5000    0.0000  top
+J2        USB_C_Receptacle_USB2.0_14P  USB_C_Receptacle_GCT_USB4085                            158.2000  -108.6400    0.0000  top
+J3        Batería_18650                JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical                   153.0000   -91.0000    0.0000  top
+R1        1k                           R_0402_1005Metric                                       151.9900  -104.5000    0.0000  top
+R2        1k                           R_0402_1005Metric                                       155.9900  -104.5000    0.0000  top
+R3        2k                           R_0402_1005Metric                                       136.0000  -105.5000    0.0000  top
+R4        5.1K                         R_0402_1005Metric                                       161.4900  -105.5000    0.0000  top
+R5        5.1K                         R_0402_1005Metric                                       167.9900  -105.5000    0.0000  top
+U1        XIAO-ESP32-S3-SMD            MODULE_113991054                                        136.1200   -89.5565    0.0000  top
+U2        TP4056-42-ESOP8              SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias   126.9000  -108.3250    0.0000  top
+## End

@@ -1,0 +1,125 @@
+** Drc report for camara-diy.kicad_pcb **
+** Created on 2026-04-07T21:00:37-0400 **
+
+** Found 18 DRC violations **
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1627 mm)
+    Regla: clase de nodo 'Default'; error
+    @(165.5000 mm, 113.0000 mm): Pad PTH S1 [GND] de J2
+    @(160.0000 mm, 104.5000 mm): Pista [/BAT_18650] en (F.Cu), longitud 10.6066 mm
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.0500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(165.5000 mm, 113.0000 mm): Pad PTH S1 [GND] de J2
+    @(153.2792 mm, 112.0000 mm): Pista [/VBUS_CHG] en (F.Cu), longitud 5.2208 mm
+[hole_clearance]: Infracción de margen de orificio (restricciones de configuración de placa para orificios margen 0.2500 mm; real 0.2000 mm)
+    Regla: restricciones de configuración de placa para orificios; error
+    @(153.2792 mm, 112.0000 mm): Pista [/VBUS_CHG] en (F.Cu), longitud 5.2208 mm
+    @(165.5000 mm, 113.0000 mm): Pad PTH S1 [GND] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(158.2000 mm, 108.6400 mm): Pad PTH A1 [GND] de J2
+    @(159.0500 mm, 108.6400 mm): Pad PTH A4 [/VBUS_CHG] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(159.0500 mm, 108.6400 mm): Pad PTH A4 [/VBUS_CHG] de J2
+    @(159.9000 mm, 108.6400 mm): Pad PTH A5 [Net-(J2-CC1)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(159.9000 mm, 108.6400 mm): Pad PTH A5 [Net-(J2-CC1)] de J2
+    @(160.7500 mm, 108.6400 mm): Pad PTH A6 [unconnected-(J2-D+-PadA6)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(160.7500 mm, 108.6400 mm): Pad PTH A6 [unconnected-(J2-D+-PadA6)] de J2
+    @(161.6000 mm, 108.6400 mm): Pad PTH A7 [unconnected-(J2-D--PadA7)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(161.6000 mm, 108.6400 mm): Pad PTH A7 [unconnected-(J2-D--PadA7)] de J2
+    @(162.4500 mm, 108.6400 mm): Pad PTH A8 [<no net>] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(162.4500 mm, 108.6400 mm): Pad PTH A8 [<no net>] de J2
+    @(163.3000 mm, 108.6400 mm): Pad PTH A9 [/VBUS_CHG] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(163.3000 mm, 108.6400 mm): Pad PTH A9 [/VBUS_CHG] de J2
+    @(164.1500 mm, 108.6400 mm): Pad PTH A12 [GND] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(164.1500 mm, 109.9900 mm): Pad PTH B1 [GND] de J2
+    @(163.3000 mm, 109.9900 mm): Pad PTH B4 [/VBUS_CHG] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(164.1500 mm, 109.9900 mm): Pad PTH B1 [GND] de J2
+    @(163.3000 mm, 109.9900 mm): Pad PTH B4 [/VBUS_CHG] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(163.3000 mm, 109.9900 mm): Pad PTH B4 [/VBUS_CHG] de J2
+    @(162.4500 mm, 109.9900 mm): Pad PTH B5 [Net-(J2-CC2)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(162.4500 mm, 109.9900 mm): Pad PTH B5 [Net-(J2-CC2)] de J2
+    @(161.6000 mm, 109.9900 mm): Pad PTH B6 [unconnected-(J2-D+-PadB6)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(161.6000 mm, 109.9900 mm): Pad PTH B6 [unconnected-(J2-D+-PadB6)] de J2
+    @(160.7500 mm, 109.9900 mm): Pad PTH B7 [unconnected-(J2-D--PadB7)] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(160.7500 mm, 109.9900 mm): Pad PTH B7 [unconnected-(J2-D--PadB7)] de J2
+    @(159.9000 mm, 109.9900 mm): Pad PTH B8 [<no net>] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(159.9000 mm, 109.9900 mm): Pad PTH B8 [<no net>] de J2
+    @(159.0500 mm, 109.9900 mm): Pad PTH B9 [/VBUS_CHG] de J2
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0.2000 mm; real 0.1500 mm)
+    Regla: clase de nodo 'Default'; error
+    @(159.0500 mm, 109.9900 mm): Pad PTH B9 [/VBUS_CHG] de J2
+    @(158.2000 mm, 109.9900 mm): Pad PTH B12 [GND] de J2
+
+** Found 0 unconnected pads **
+
+** Found 14 Footprint errors **
+[duplicate_footprints]: Duplicar huellas
+    Anulación local; warning
+    @(113.0000 mm, 113.0000 mm): Huella REF**
+    @(166.0000 mm, 81.0000 mm): Huella REF**
+[net_conflict]: No se ha encontrado un pad para el pin 16 (GND) en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 20 (GND) en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 25 (GND) en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 15 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 19 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 22 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 17 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 18 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 21 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 23 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[net_conflict]: No se ha encontrado un pad para el pin 24 en el esquema.
+    Anulación local; warning
+    @(136.1200 mm, 89.5565 mm): Huella U1
+[extra_footprint]: Huella extra
+    Anulación local; warning
+    @(166.0000 mm, 81.0000 mm): Huella REF**
+[extra_footprint]: Huella extra
+    Anulación local; warning
+    @(113.0000 mm, 113.0000 mm): Huella REF**
+
+** End of Report **

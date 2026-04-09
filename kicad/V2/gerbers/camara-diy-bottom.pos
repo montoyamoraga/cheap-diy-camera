@@ -1,0 +1,9 @@
+### Footprint positions - created on 2026-04-07T21:33:13-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                               PosX       PosY       Rot  Side
+J1        GC9A01_8P  PinHeader_1x08_P2.54mm_Vertical   164.5000   -87.1100  180.0000  bottom
+SW1       Shutter    SW_PUSH_6mm_H5mm                  119.0000   -83.5000  180.0000  bottom
+SW2       Modo       SW_PUSH_6mm_H5mm                  119.0000   -94.0000  180.0000  bottom
+## End
