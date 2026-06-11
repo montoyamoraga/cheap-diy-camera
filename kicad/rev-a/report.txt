@@ -1,0 +1,12 @@
+Archivo de posicionamiento del lado frontal: '/Users/matbutom/Downloads/Work/camara-diy/camara-diy-kicad/camara-diy-top-pos.csv'.
+Info: Número de componentes: 19.
+Archivo de posicionamiento del lado trasero: '/Users/matbutom/Downloads/Work/camara-diy/camara-diy-kicad/camara-diy-bottom-pos.csv'.
+Info: Número de componentes: 3.
+Info: Número total de componentes: 22.
+Info: Listo.
+Archivo de posicionamiento del lado frontal: '/Users/matbutom/Downloads/Work/camara-diy/camara-diy-kicad/V2/gerbers/camara-diy-top-pos.csv'.
+Info: Número de componentes: 19.
+Archivo de posicionamiento del lado trasero: '/Users/matbutom/Downloads/Work/camara-diy/camara-diy-kicad/V2/gerbers/camara-diy-bottom-pos.csv'.
+Info: Número de componentes: 3.
+Info: Número total de componentes: 22.
+Info: Listo.
